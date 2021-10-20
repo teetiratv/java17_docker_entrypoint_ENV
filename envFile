@@ -1,0 +1,2 @@
+#import from any
+export MY_ENV="Test My ENV"git remote add origin git@github.com:teetiratv/java17_docker_entrypoint_ENV.git
